@@ -44,6 +44,7 @@ $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
 $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
 ```
 
+<a href="https://imgur.com/S4LEnC3"><img src="https://i.imgur.com/S4LEnC3.gif" title="source: imgur.com" /></a>
 
 
 
