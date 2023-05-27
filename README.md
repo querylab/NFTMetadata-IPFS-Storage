@@ -44,8 +44,9 @@ $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
 $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
 ```
 
-<a href="https://imgur.com/S4LEnC3"><img src="https://i.imgur.com/S4LEnC3.gif" title="source: imgur.com" /></a>
+#### 5. You can see on the OpenSea Testnet at Polygon is a test environment where developers can test their applications and functionality without using real assets on the core network. 
 
+<a href="https://imgur.com/S4LEnC3"><img src="https://i.imgur.com/S4LEnC3.gif" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/ZTnGVlk"><img src="https://i.imgur.com/ZTnGVlk.png" title="source: imgur.com" /></a>
 
