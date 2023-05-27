@@ -32,7 +32,7 @@ $ npx hardhat run scripts/store-content.mjs --network PolygonMumbai
 ```
 <a href="https://imgur.com/t8BSlNR"><img src="https://i.imgur.com/t8BSlNR.gif" title="source: imgur.com" /></a>
 
-#### After doing the first deployment of store-content.mjs Replace the results: ipfs://bafyreieqrgx34acvgryhqxoqqinjsu5to3iu3sz57qv6lzniasbefxy7ii/metadata.json  in  assets/metadata_urls.csv
+### After doing the first deployment of store-content.mjs Replace the results: ipfs://bafyreieqrgx34acvgryhqxoqqinjsu5to3iu3sz57qv6lzniasbefxy7ii/metadata.json  in  assets/metadata_urls.csv
 
 
 ```bash
@@ -43,8 +43,73 @@ $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
 ```bash
 $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
 ```
+<a href="https://imgur.com/S4LEnC3"><img src="https://i.imgur.com/S4LEnC3.gif" title="source: imgur.com" /></a>
 
-#### 5. You can see on the OpenSea Testnet at Polygon is a test environment where developers can test their applications and functionality without using real assets on the core network. 
+
+<a href="https://imgur.com/ZTnGVlk"><img src="https://i.imgur.com/ZTnGVlk.png" title="source: imgur.com" /></a>
+
+
+### 5. You can see on the OpenSea Testnet at Polygon is a test environment where developers can test their applications and functionality without using real assets on the core network. 
+
+
+<a href="https://imgur.com/u6pqsBc"><img src="https://i.imgur.com/u6pqsBc.png" title="source: imgur.com" /></a>
+
+
+<a href="https://imgur.com/tZA937p"><img src="https://i.imgur.com/tZA937p.png" title="source: imgur.com" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
