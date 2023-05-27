@@ -33,7 +33,7 @@ $ npx hardhat run scripts/store-content.mjs --network PolygonMumbai
 
 ## After doing the first deployment of store-content.mjs Replace the results: ipfs://bafyreieqrgx34acvgryhqxoqqinjsu5to3iu3sz57qv6lzniasbefxy7ii/metadata.json  in  assets/metadata_urls.csv
 
-https://imgur.com/VGQxUDt.gif
+[Imgur](https://i.imgur.com/VGQxUDt.gifv)
 
 ```bash
 $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
