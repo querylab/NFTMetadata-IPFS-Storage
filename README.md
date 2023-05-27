@@ -27,7 +27,7 @@ $ NFT_STORAGE_API_KEY
 $ PRIVATE_KEY
 
 ```
-
+![](htps://i.imgur.com/VGQxUDt.gif)
 4. Deployment
 
 ```bash
