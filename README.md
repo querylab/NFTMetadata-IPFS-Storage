@@ -1,12 +1,12 @@
- # Mint with NFT.storage and Polygon TestNetwork Mumbai  
+ ## Mint with NFT.storage and Polygon TestNetwork Mumbai  
 
 Mint with NFT.storage and Polygon using the Polygon blockchain and IPFS/Filecoin storage via NFT.Storage. Built with Solidity using Hardhat.
 
  Setting Up
 
-## 1. Clone the repository
+### 1. Clone the repository
 
-## 2. Install dependencies
+### 2. Install dependencies
 
 ```bash
 $ cd NFTMetadata-IPFS(Storage)
@@ -15,14 +15,14 @@ $ npx hardhat
 $ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts @nomicfoundation/hardhat-chai-matchers @nomicfoundation/hardhat-toolbox @nomiclabs/hardhat-ethers
 $ npm i nft.storage dotenv csv-parse
 ```
-## 3. Change variables .env files create an account in nft.storage to be able to use its apikey
+### 3. Change variables .env files create an account in nft.storage to be able to use its apikey
 ```bash
 #.env
 $ NFT_STORAGE_API_KEY
 $ PRIVATE_KEY
 ```
 
-## 4. Deployment
+### 4. Deployment
 ```bash
 $ npx hardhat clean
 $ npx hardhat compile
@@ -43,6 +43,32 @@ $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
 ```bash
 $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
 ```
+
+#### 5. You can see on the OpenSea Testnet at Polygon is a test environment where developers can test their applications and functionality without using real assets on the core network. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
