@@ -9,7 +9,7 @@ Mint with NFT.storage and Polygon using the Polygon blockchain and IPFS/Filecoin
 ### 2. Install dependencies
 
 ```bash
-$ cd NFTMetadata-IPFS(Storage)
+$ cd NFTMetadata-IPFS-Storage
 $ npm install --save-dev hardhat
 $ npx hardhat
 $ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts @nomicfoundation/hardhat-chai-matchers @nomicfoundation/hardhat-toolbox @nomiclabs/hardhat-ethers
