@@ -39,7 +39,7 @@ $ npx hardhat run scripts/store-content.mjs --network PolygonMumbai
 ```
 ![](https://i.imgur.com/6PTvJ4o.gif)
 
-## After doing the first deployment of store-content.mjs Replace the results: ipfs://bafyreieqrgx34acvgryhqxoqqinjsu5to3iu3sz57qv6lzniasbefxy7ii/metadata.json  in  mint-nft.mjs  
+## After doing the first deployment of store-content.mjs Replace the results: ipfs://bafyreieqrgx34acvgryhqxoqqinjsu5to3iu3sz57qv6lzniasbefxy7ii/metadata.json  in  assets/metadata_urls.csv
 
 
 $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
