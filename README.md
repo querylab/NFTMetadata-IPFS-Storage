@@ -4,8 +4,9 @@ Mint with NFT.storage and Polygon using the Polygon blockchain and IPFS/Filecoin
 
  Setting Up
 
-1. Clone the repository
-2. Install dependencies
+## 1. Clone the repository
+
+## 2. Install dependencies
 
 ```bash
 $ cd NFTMetadata-IPFS(Storage)
@@ -14,14 +15,14 @@ $ npx hardhat
 $ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts @nomicfoundation/hardhat-chai-matchers @nomicfoundation/hardhat-toolbox @nomiclabs/hardhat-ethers
 $ npm i nft.storage dotenv csv-parse
 ```
-3. Change variables .env files create an account in nft.storage to be able to use its apikey
+## 3. Change variables .env files create an account in nft.storage to be able to use its apikey
 ```bash
 #.env
 $ NFT_STORAGE_API_KEY
 $ PRIVATE_KEY
 ```
 
-4. Deployment
+## 4. Deployment
 ```bash
 $ npx hardhat clean
 $ npx hardhat compile
