@@ -1,8 +1,8 @@
-# Mint with NFT.storage and Polygon TestNetwork Mumbai  
+##### Mint with NFT.storage and Polygon TestNetwork Mumbai  
 
 Mint with NFT.storage and Polygon using the Polygon blockchain and IPFS/Filecoin storage via NFT.Storage. Built with Solidity using Hardhat.
 
-# Setting Up
+###### Setting Up
 
 
 1. Clone the repository
