@@ -29,16 +29,15 @@ $ npx hardhat compile
 ```bash
 $ npx hardhat run scripts/store-content.mjs --network PolygonMumbai
 ```
-![](https://i.imgur.com/t8BSlNR.gif)
+<a href="https://imgur.com/t8BSlNR"><img src="https://i.imgur.com/t8BSlNR.gif" title="source: imgur.com" /></a>
 
 ## After doing the first deployment of store-content.mjs Replace the results: ipfs://bafyreieqrgx34acvgryhqxoqqinjsu5to3iu3sz57qv6lzniasbefxy7ii/metadata.json  in  assets/metadata_urls.csv
 
-<a href="https://imgur.com/VGQxUDt"><img src="https://i.imgur.com/VGQxUDt.gif" title="source: imgur.com" /></a>
 
 ```bash
 $ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
 ```
-
+<a href="https://imgur.com/VGQxUDt"><img src="https://i.imgur.com/VGQxUDt.gif" title="source: imgur.com" /></a>
 
 ```bash
 $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
