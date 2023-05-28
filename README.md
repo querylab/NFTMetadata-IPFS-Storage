@@ -1,6 +1,6 @@
-## Mint with NFT.Storage and Polygon blockchain 
+## Mint with NFT.Storage and Polygon Blockchain 
 
-Mint with NFT.storage and Polygon Testnetwork Mumbai and IPFS/Filecoin storage via NFT.Storage made with Solidity using Hardhat.
+Mint with NFT.storage and Polygon TestNetwork Mumbai and IPFS/Filecoin storage via NFT.Storage made with Solidity using Hardhat.
 
 ### Setting Up
 
