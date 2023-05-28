@@ -45,7 +45,10 @@ $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
 ```
 <a href="https://imgur.com/S4LEnC3"><img src="https://i.imgur.com/S4LEnC3.gif" title="source: imgur.com" /></a>
 
+
 ### 5. Metamask
+
+In Metamask call the contract that deploy.mjs gave you and add the item or Pokémon, are only 4 (1,2,3,4).
 
 
 <a href="https://imgur.com/ZTnGVlk"><img src="https://i.imgur.com/ZTnGVlk.png" title="source: imgur.com" /></a>
