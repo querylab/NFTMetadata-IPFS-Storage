@@ -36,7 +36,7 @@ $ npx hardhat run scripts/store-content.mjs --network PolygonMumbai
 
 
 ```bash
-$ npx hardhat run scripts/deploy.mjs --network PolygonMumbai //
+$ npx hardhat run scripts/deploy.mjs --network PolygonMumbai 
 ```
 <a href="https://imgur.com/VGQxUDt"><img src="https://i.imgur.com/VGQxUDt.gif" title="source: imgur.com" /></a>
 
