@@ -1,12 +1,12 @@
- ## Mint with NFT.storage and Polygon TestNetwork Mumbai  
+ # Mint with NFT.Storage and Polygon Testnetwork Mumbai  
 
 Mint with NFT.storage and Polygon using the Polygon blockchain and IPFS/Filecoin storage via NFT.Storage. Built with Solidity using Hardhat.
 
  Setting Up
 
-### 1. Clone the repository
+## 1. Clone the repository
 
-### 2. Install dependencies
+## 2. Install dependencies
 
 ```bash
 $ cd NFTMetadata-IPFS-Storage
@@ -15,14 +15,14 @@ $ npx hardhat
 $ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts @nomicfoundation/hardhat-chai-matchers @nomicfoundation/hardhat-toolbox @nomiclabs/hardhat-ethers
 $ npm i nft.storage dotenv csv-parse
 ```
-### 3. Change variables .env files create an account in nft.storage to be able to use its apikey
+## 3. Change variables .env files create an account in nft.storage to be able to use its apikey
 ```bash
 #.env
 $ NFT_STORAGE_API_KEY
 $ PRIVATE_KEY
 ```
 
-### 4. Deployment
+## 4. Deployment
 ```bash
 $ npx hardhat clean
 $ npx hardhat compile
@@ -46,7 +46,7 @@ $ npx hardhat run scripts/mint-nft.mjs --network PolygonMumbai
 <a href="https://imgur.com/S4LEnC3"><img src="https://i.imgur.com/S4LEnC3.gif" title="source: imgur.com" /></a>
 
 
-### 5. Metamask
+## 5. Metamask
 
 In Metamask call the contract that deploy.mjs gave you and add the item or Pokémon, are only 4 (1,2,3,4).
 
@@ -54,7 +54,7 @@ In Metamask call the contract that deploy.mjs gave you and add the item or Poké
 <a href="https://imgur.com/ZTnGVlk"><img src="https://i.imgur.com/ZTnGVlk.png" title="source: imgur.com" /></a>
 
 
-### 6. OpenSea Testnets https://testnets.opensea.io/
+## 6. OpenSea Testnets https://testnets.opensea.io/
 
 OpenSea Testnets is a test environment where developers can test their applications and functionality without using real core network assets. With different networks such as Goerli ETH and Polygon Matic
 
