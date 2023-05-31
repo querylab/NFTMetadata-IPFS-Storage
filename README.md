@@ -54,7 +54,7 @@ In Metamask call the contract that deploy.mjs gave you and add the item or Poké
 <a href="https://imgur.com/ZTnGVlk"><img src="https://i.imgur.com/ZTnGVlk.png" title="source: imgur.com" /></a>
 
 
-### 6. OpenSea Testnets https://testnets.opensea.io/
+### 6. OpenSea Testnets https://testnets.opensea.io/collection/celebrations-25-years-pokemon-card-tcg
 
 OpenSea Testnets is a test environment where developers can test their applications and functionality without using real core network assets. With different networks such as Goerli ETH and Polygon Matic
 
