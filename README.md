@@ -11,7 +11,6 @@ Mint with NFT.storage and Polygon TestNetwork Mumbai and IPFS/Filecoin storage v
 ```bash
 $ cd NFTMetadata-IPFS-Storage
 $ npm install --save-dev hardhat
-$ npx hardhat
 $ npm install --save dotenv @nomiclabs/hardhat-etherscan @openzeppelin/contracts @nomicfoundation/hardhat-chai-matchers @nomicfoundation/hardhat-toolbox @nomiclabs/hardhat-ethers
 $ npm i nft.storage dotenv csv-parse
 ```
